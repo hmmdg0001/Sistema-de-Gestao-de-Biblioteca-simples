@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "titulo": "O Diário de um Banana 1",
+    "autor": "Jeff Kinney",
+    "genero": "Infantil",
+    "ano_publicacao": 2010,
+    "disponivel": false,
+    "data_emprestimo": "2026-01-22"
+  },
+  {
+    "id": 3,
+    "titulo": "Homo Deus",
+    "autor": "Yuval Noah Harari",
+    "genero": "História",
+    "ano_publicacao": 2017,
+    "disponivel": true,
+    "data_emprestimo": null
+  },
+  {
+    "id": 4,
+    "titulo": "The Art Of War",
+    "autor": "Sun Tzu",
+    "genero": "Política",
+    "ano_publicacao": 2010,
+    "disponivel": true,
+    "data_emprestimo": null
+  }
+]
